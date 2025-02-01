@@ -1,0 +1,6 @@
+flask
+graphql
+graphene
+scikit-learn
+numpy
+requests
